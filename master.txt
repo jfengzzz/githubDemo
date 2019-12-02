@@ -2,4 +2,4 @@ master
 
 new
 
-three_company
+three
